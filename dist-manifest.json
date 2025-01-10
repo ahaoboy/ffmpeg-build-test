@@ -1,6 +1,6 @@
 {
   "artifacts": {
-    "https://github.com/ahaoboy/ffmpeg-build-test/releases/latest/download/ffmpeg-n7.1-latest-win64-gpl-7.1.zip": {
+    "https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-n7.1-latest-win64-gpl-7.1.zip": {
       "name": "ffmpeg-n7.1-latest-win64-gpl-7.1.zip",
       "target_triples": [
         "x86_64-pc-windows-gnu"
@@ -23,7 +23,7 @@
         }
       ]
     },
-    "https://github.com/ahaoboy/ffmpeg-build-test/releases/latest/download/ffmpeg-n7.1-latest-linux64-gpl-7.1.tar.xz": {
+    "https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-n7.1-latest-linux64-gpl-7.1.tar.xz": {
       "name": "ffmpeg-n7.1-latest-linux64-gpl-7.1.tar.xz",
       "target_triples": [
         "x86_64-unknown-linux-gnu"
