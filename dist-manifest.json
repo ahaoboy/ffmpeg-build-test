@@ -1,0 +1,26 @@
+{
+  "artifacts": {
+    "https://github.com/ahaoboy/ffmpeg-build-test/releases/latest/download/ffmpeg-n7.1-latest-win64-gpl-7.1.zip": {
+      "target_triples": [
+        "x86_64-pc-windows-gnu"
+      ],
+      "assets": [
+        {
+          "name": "bin/ffmpeg.exe",
+          "path": "bin/ffmpeg.exe",
+          "kind": "executable"
+        },
+        {
+          "name": "bin/ffplay.exe",
+          "path": "bin/ffplay.exe",
+          "kind": "executable"
+        },
+        {
+          "name": "bin/ffprobe.exe",
+          "path": "bin/ffprobe.exe",
+          "kind": "executable"
+        }
+      ]
+    }
+  }
+}
