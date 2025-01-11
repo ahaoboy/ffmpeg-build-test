@@ -21,4 +21,4 @@ jobs:
         if: startsWith(github.ref, 'refs/tags/')
         uses: ncipollo/release-action@v1
         with:
-          artifacts: "*.tar.xz,dist-manifest.json,*.zip"
+          artifacts: "*.tar.xz,dist-manifest.json,*.zip,*.7z"
